@@ -1,5 +1,7 @@
 # PVTV2_paddle
-reproduction of "PVTv2 Improved Baselines with Pyramid Vision Transformer" in PaddlePaddle
+reproduction of "PVTv2 Improved Baselines with Pyramid Vision Transformer" in PaddlePaddle   
+
+reference:[https://github.com/whai362/PVT](https://github.com/whai362/PVT)
 
 ## 1、简介
 ![image](images/network.png)  
